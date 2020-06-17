@@ -138,6 +138,18 @@ chatMercy=Ahh! Who told you to do that?^Ah! Magic...powerless...against bombs!
 chatWarn=Never anger a magician!^Fear me! Poop, poop in your pumpkin pants!^DOOM! All of you are doomed!
 chatDisobey=Can you withstand the dark power...of HIDING!^Where could Merasmus be?^The hide-ening! It is here!
 ~
+name=monsotaBot
+takeover=Burgers for everyone!
+chatAutopay=Hey, what is this? I'm not making a deal till you offer some money.
+chatBadDeath=I didn't do nuthin!
+chatGreed=I think I could use a few more stacks.
+chatTarget=BUNNY is any means.
+chatFlattery=Wow, you deserve all the gold disks in the world.
+chatMercy=Woah, woah, I'm sorry! I didn't realize my gun wasn't loaded.
+chatWarn=Stop what you're doing right now or I'm gonna shoot.
+chatDisobey=Alright, fine, I admit, I'm any means.
+chatFyi=Bo-bo-bo-bo-bo-bo-bo-bo-bo-bo
+~
 name=nilbogBot
 chattiness=1
 randomness=1
