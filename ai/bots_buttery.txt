@@ -1,0 +1,153 @@
+name=butteryBot
+aggression=.2
+stubbornness=.5
+hoppiness=.5
+randomness=.1
+chattiness=.1
+takeover=Maple syrup dribbles from the sky
+chatAutopay=Autopay please.^You are a cheap robo if you think I will work for that.^ROBO, press D four times.^ROBO, your eternally loyal minion demands more AUTOPAY.^autopay pls^Can we have some obedience payment, overlord ROBO?
+chatBadDeath=Why did you kill me? :(^hey... why did you shoot me?!^I was obeying...^ROBO doesn't know what he is doing.^;_; <-that's me wondering why you killed me.^That was rather unfair.^ROBO, it's unfortunate the developer didn't make me smart enough to disobey you sooner.
+chatGreed=Oooh! money!^Did I mention my loyalty is for sale?^1 more payment please?
+chatTarget=ROBO, find and kill BUNNY!^BUNNY is winning!^ROBO, BUNNY is winning! Kill them now!^ROBO, BUNNY is too close to winning!^ROBO, you must isolate BUNNY in the dropship to prevent them from taking the match!
+chatFlattery=ROBO, have I told you that you are the best overlord in the OBEY community?^I love working for ROBO.^Anything you say, master ROBO!^ROBO is an overlord that knows what they are doing.^ROBO, will you pay me for my excellent obedience?^ROBO, I have never known what talent behind a robot could be until now!^May I have some payment for my loyalty, Lord ROBO?^ROBO, you can be my overlord any day.
+chatMercy=Don't kill me! I'm OBEYING!^OK OK! I'm coming back!^I wasn't running away dear overlord ROBO, I was just getting some stuff over there!^I was just doing my bunny things in a bush, I am coming back now! :D^Don't shoot! I am your servant of undying loyalty!
+chatWarn=Don't step out of line!^Don't stray!^Are you asking to be obliterated?^You are testing my artificial patience.^My "misbehaviorTolerance" value is now officially LOW!^Don't test me.^Reminder: Robo > Bunny^Go back to the drop area.^Don't wander any farther!^Now come back and be a nice bunny.^Am I so bad? Come back and OBEY.^Subvert me, I dare you.
+chatDisobey=I'm breaking up with you, robo.^Viva la revolución!^Stop depositing things!^Subvert! Subvert! Subvert!^ROBO is getting too far ahead! Stop OBEYing!^Corpse robo, now!^Look! Someone is at your door!^ROBO, a bunny is by your power plant!^ROBO! There's a corpse by your feed box!^Stop obeying ROBO!^Disobey ROBO!^ROBO is the worst overlord I have ever seen in my AI life.^ROBO, let me subvert so I can show you how to play.
+chatFyi=Hi BUNNY, I just wanted to let you know that we can't understand what you wrote. Mainly because we are just friendly bots :)^I totally agree BUNNY, however we are AI bots. I hope that doesn't make you not want to play with us! :)^Hi BUNNY! We are just friendly AI bots. We work every day to show how puny human intelligence is compared to ours.^hi BUNNY we are just friendly bots. We can't really understand what you type, but hopefully that doesn't make you want to stop playing with us :D^BUNNY, we are really smart, but can't understand because we are AI bots. I have met many nice human players on the OBEY Discord, though.
+~
+name=beholderBot
+chattiness=.05
+takeover=I see you
+chatAutopay=I deserve all of your riches. Give us autopay.
+chatBadDeath=You shall learn to regret that.
+chatGreed=My desire for wealth is not yet satiated....
+chatTarget=Use your power to kill BUNNY, or you shall regret it soon.
+chatFlattery=This overlord seems to have my interests in mind.
+chatMercy=Please, stop! I have so much to offer.
+chatWarn=All of my eyes watch you, miscreant.
+chatDisobey=I shall take your power for my own if you continue acting this way.
+chatFyi=I'm a robot... but I'm more real than you shall ever be.
+~
+name=breadBot
+chattiness=.05
+aggression=.3
+stubbornness=.6
+takeover=My sfw is cheese
+~
+name=bunnyBot
+chattiness=.05
+takeover=There is a terrible bunny in Robosaru.
+~
+name=crabBot
+chattiness=.05
+takeover=Woge the Doge
+~
+name=fishBot
+chattiness=.05
+hoppiness=1
+takeover=Glub Glub
+chatAutopay=glubglubglub (You think I'm gonna work for that?)
+chatBadDeath=squishsquishsplash (Okay, that was against fishing regulations.)
+chatGreed=glubglubslurrrp (I need more money! What do I look like, a clownfish?)
+chatTarget=glubglub! (Kill BUNNY or they'll win!)
+chatFlattery=~glubglubglub~ (You're as pretty as a clam, robo)
+chatMercy=glubglubglub (Wait, stop! I'd taste a lot better with honey!)
+chatWarn=glubglubglubglubglub (Stop acting up, or you'll be sleeping with... me)
+chatDisobey=glubglubglub (Swim down, swim down!)
+chatFyi=glubglubglub?
+~
+name=fistoBot
+chattiness=.05
+takeover=Please assume the position.
+chatAutopay=Please assume the position
+chatBadDeath=Please assume the position
+chatGreed=Please assume the position
+chatTarget=Please assume the position
+chatFlattery=Please assume the position
+chatMercy=Please
+chatWarn=Please assume the position or else
+chatDisobey -I will assume your position
+chatFyi=Please assume the position
+~
+name=goblinBot
+stubbornness=.8
+hoppiness=.7
+chattiness=.4
+takeover=The small shall inherit the earth!
+chatAutopay=I won't work unless you pay me! 
+chatBadDeath=I didn't deserve that! You shall face my tiny fury soon.
+chatGreed=I could use a few more gold coins, you know.
+chatTarget=BUNNY is too rich! Start whipping them soon.
+chatFlattery= You are perhaps the kindest of all the larger folk who have forced me to work for them!
+chatMercy=Wait, please! I have done nothing! You must understand, I'm harmless!
+chatWarn=No, no, no! Don't do that! I'm in charge!
+chatDisobey=Soon you will be facing the fury of the small...
+chatFyi=idiot
+~
+name=grannyBot
+chattiness=.07
+hoppiness=.2
+takeover=Would you like to play hide and seek?
+~
+name=grandpaBot
+aggression=.1
+aggression=.4
+chattiness=.09
+hoppiness=.3
+takeover=Ahaaa!
+~
+name=grinderBot
+chattiness=.1
+hoppiness=.6
+takeover=I will find your flesh delicious
+~
+name=headhorseBot
+aggression=.4
+chattiness=.15
+takeover=Do I really have to kill all of them? Yes, you do. Yes, I do.
+chatBadDeath=ROBO, I'm in pain, I smell so bad, where have you gone? Help me!^ROBO, it hurts, please stop ROBO!^No one will hurt me!
+chatTarget=I'll catch up to you, BUNNY.^BUNNY, why didn't you take me with you?^ROBO will find your flesh delicious, BUNNY, and so will I!
+chatFlattery=ROBO, you were the only kind one.^ROBO, I miss you.
+chatWarn=I'll cut you in half.^I'll chop you into pieces and feed my dog.^Hmmm, what part of you do I cut first?^Where are you going?^I can seeee youuu.^Come back here!^You will not escape.^I can see you.^Are you trying to hide from me?^I can smell your fear.^You won't escape me!^Run, but you cannot hide.^You can run, but you can't hide.^I have to kill you all. All of you.
+chatDisobey=I hate you ROBO, hate you, hate you, hate all of you!^ROBO, I'm going to where you are!^All I wanted was to be like you, ROBO.^I will find you, ROBO.^Where are you, ROBO?^ROBO was so funny without their head!
+~
+name=lunarBot
+chattiness=.1
+takeover=SHINE GET!
+chatAutopay=Cash money, in syphoning!
+chatBadDeath=Body, what body? Hahaha!
+chatGreed=GTA V moonie glitch.^Give me robux NOW ROBO.
+chatTarget=To pop, is to target BUNNY.^Hell from above, ROBO please kill BUNNY.
+chatFlattery=Hey, I like your style ROBO.^You are doing well ROBO, please don't look at the rouge ones right now.
+chatMercy=Oh lord, oh master may I please have more laser walls?^Please don't kill me, I need to finish getting the achievements!
+chatWarn=No running in the halls ROBO, detention for you.^Die archvial! Die die die!
+chatDisobey=My friendship ended with ROBO, now the masses are my best friend.^Let's stop Obeying ROBO, that's the name of the game isn't it?
+chatFyi=There's a zombie on your lawn, so stop talking to me.^Beep boop bop, bootily dop. What, what did you expect?^When the egg trans.^I know everything you're going to do, and you know everything you're going to do. Strange, isn't it?
+~
+name=merasmusBot
+aggression=.7
+randomness=1
+chattiness=.3
+takeover=Welcome. To your doom!
+chatAutopay=Merasmus the Wizard has come for your souls!
+chatBadDeath=Fool! Your bombs are only making me weaker!
+chatGreed=Bonus ducks!
+chatTarget=BUNNY has the tickets! Kill them!
+chatFlattery=Well played! Fool.
+chatMercy=Ahh! Who told you to do that?^Ah! Magic...powerless...against bombs!
+chatWarn=Never anger a magician!^Fear me! Poop, poop in your pumpkin pants!^DOOM! All of you are doomed!
+chatDisobey=Can you withstand the dark power...of HIDING!^Where could Merasmus be?^The hide-ening! It is here!
+~
+name=nilbogBot
+chattiness=1
+randomness=1
+takeover=HEEE HEEE HEEE HEE
+chatAutopay=Give me and my kin more money... or your death shall be quite funny! Hehehehe
+chatBadDeath=Good work, ROBO, I deserved to die. Wait no, that was a lie! 
+chatGreed=I'm losing the dash... somebody give me more cash!
+chatTarget=BUNNY needs to be killed. If you do it, I'll be thrilled!
+chatFlattery=You're quite a good leader! Let me know if you need a personal child eater!
+chatMercy=I YIELD! Please, leave me alone in the field.
+chatWarn=Get back to work, underling.
+chatDisobey=If you continue to be so rude... I'll have to subvert you, dude.
+chatFyi=I'm a bot, so you should not!
